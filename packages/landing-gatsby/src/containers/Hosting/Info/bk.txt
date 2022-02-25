@@ -1,0 +1,77 @@
+<Box {...sectionWrapper} className="bg_white">
+<Container>
+    <InfoWrapper>
+    <Box {...row}>
+        <Box {...col5}>
+        <Fade left cascade>
+            <Heading
+            {...title}
+            dangerouslySetInnerHTML={{
+                __html:
+                'SalesCatcher<br/><b>Intelligent Offering (SC/IO)</b>',
+            }}
+            />
+            <div className="BannerStrip" />
+            <Text
+            {...description}
+            content="The IO in SalesCatcher stands for Intelligent Offering which is our AI engine that powers automated lead response 24/7 in a human way. Our IO bot can read and derive intent from any and all leads, it understands what the customer is looking for and matches up an offer that is perfect for them. IO works in auto-drive as your internet super salesman always working and always converting."
+            />
+            <Link to="/about" className="btn btn-grad">
+            <span className="btn-text">Learn More</span>
+            </Link>
+        </Fade>
+        </Box>
+        <Box {...col6}>
+        <Fade right cascade>
+            <div className="cardBox">
+            <Box {...row2}>
+                <Box {...col2}>
+                <img className="imageBox" src={Icon1} alt="" />
+                <Text
+                    {...IconDesc}
+                    content="Real-time immediate 24/7 lead response"
+                />
+                </Box>
+                <Box {...col2}>
+                <img className="imageBox" src={Icon2} alt="" />
+                <Text
+                    {...IconDesc}
+                    content="Customer Intent - IO understands the way humans do"
+                />
+                </Box>
+                <Box {...col2}>
+                <img className="imageBox" src={Icon3} alt="" />
+                <Text
+                    {...IconDesc}
+                    content="Vehicle Match - IO searches your inventory + all other local inventory to find the perfectly matched vehicle"
+                />
+                </Box>
+                <Box {...col2}>
+                <img className="imageBox" src={Icon4} alt="" />
+                <Text
+                    {...IconDesc}
+                    content="On-the-spot-messaging - IO creates and delivers sculpted messages via email and text"
+                />
+                </Box>
+                <Box {...col2}>
+                <img className="imageBox" src={Icon5} alt="" />
+                <Text
+                    {...IconDesc}
+                    content="IO notifies sales rep when a lead is engaged and ready to convert"
+                />
+                </Box>
+                <Box {...col2}>
+                <img className="imageBox" src={Icon6} alt="" />
+                <Text
+                    {...IconDesc}
+                    content="IO integrates effortlessly to your CRM & DMS systems for fast and easy deployment"
+                />
+                </Box>
+            </Box>
+            </div>
+        </Fade>
+        </Box>
+    </Box>
+    </InfoWrapper>
+</Container>
+</Box>

@@ -1,0 +1,76 @@
+//-------------section 5 backup-----------------//
+
+        {/* 
+        <Box {...row2}>
+          <Box {...col1}>
+            <img src={mobileimage1}></img>
+          </Box>
+          <Box {...col2}>
+            <Heading {...subtitlefont} content="Advanced analytics "></Heading>
+            <Text
+              {...textfont}
+              content=" Monitor the performance of your store to run data-driven offers on
+              your store and increase sales. Keep track of your mobile app
+              audience, analyze user behavior for effective retargeting and
+              conversions."
+            ></Text>
+          </Box>
+        </Box>
+
+        <Box {...row2}>
+          <Box {...col1}>
+            <img src={mobileimage2}></img>
+          </Box>
+          <Box {...col2}>
+            <Heading {...subtitlefont} content="Integrations"></Heading>
+            <Text
+              {...textfont}
+              content="Deliver the perfect omnichannel experience by integrating your mobile app with 40+ existing plug-ins. Enable store integrations with reward & loyalty tools, product filters, chat solutions, back to stock alerts, analytics and review platforms. "
+            ></Text>
+          </Box>
+        </Box>
+
+        <Box {...row2}>
+          <Box {...col1}>
+            <img src={mobileimage3}></img>
+          </Box>
+          <Box {...col2}>
+            <Heading
+              {...subtitlefont}
+              content="Engaging Push notifications "
+            ></Heading>
+            <Text
+              {...textfont}
+              content="Right at the fingertips of your customers. Minimize cart abandonment and recapture your customers using automated and rich media push notifications. "
+            ></Text>
+          </Box>
+        </Box>
+
+        <Box {...row2}>
+          <Box {...col1}>
+            <img src={mobileimage4}></img>
+          </Box>
+          <Box {...col2}>
+            <Heading
+              {...subtitlefont}
+              content="Sell on Live Video for free "
+            ></Heading>
+            <Text
+              {...textfont}
+              content="Promote your products through Live Video Commerce and watch your shoppers go into a buying frenzy. Drive more conversions as your leverage impulsive customer behavior."
+            ></Text>
+          </Box>
+        </Box>
+    
+        <Box {...row2}>
+          <Box {...col1}>
+            <img src={mobileimage5}></img>
+          </Box>
+          <Box {...col2}>
+            <Heading {...subtitlefont} content="AI Personal Shopper "></Heading>
+            <Text
+              {...textfont}
+              content="Drive more revenue and engagement. Suggest relevant products to your customers based on their buying behavior and purchase history."
+            ></Text>
+          </Box>
+        </Box> */}
